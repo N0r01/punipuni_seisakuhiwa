@@ -445,6 +445,7 @@ original comic located here: http://cp.yokai-punipuni.jp/story/
 |---|---|
 |それからまもなくして|And then after that
 |日野組長の死刑が執行された。|Don Hino's death penalty was carried out.
+
 ![018.jpg]
 ## 018.jpg
 ### panel 1
