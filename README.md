@@ -1,4 +1,4 @@
-#The Tiger of Omertà: The Untold Story of Yo-kai Watch Punipuni
+# The Tiger of Omertà: The Untold Story of Yo-kai Watch Punipuni
 ![bg_title01.jpg]
 ## bg_title01.jpg
 |JP|EN|
