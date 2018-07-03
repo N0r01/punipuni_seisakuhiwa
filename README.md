@@ -1,4 +1,7 @@
 # The Tiger of Omertà: The Untold Story of Yo-kai Watch Punipuni
+
+original comic located here: http://cp.yokai-punipuni.jp/story/
+
 ![bg_title01.jpg]
 ## bg_title01.jpg
 |JP|EN|
