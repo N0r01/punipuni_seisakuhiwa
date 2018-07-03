@@ -332,20 +332,132 @@
 |納期に間に合わすべく企画書を書くのだった|And then he writes his proposal for making it before the deadline.
 |カタ　カタ|(sfx:clack clack)
 
-
-
-
-![01.jpg]
-## 01.jpg
+![014.jpg]
+## 014.jpg
 ### panel 1
 |JP|EN|
 |---|---|
-||
-### panel 
+|ゴゴゴゴ|(sfx:menacing)
+### panel 3
 |JP|EN|
 |---|---|
-||
+|ごくっ|(sfx:gulp)
+### panel 4
+|JP|EN|
+|---|---|
+|ぱぁぁ|(sfx:shine)
+|ええやんか。|Dis is good.
+### panel 5
+|JP|EN|
+|---|---|
+|オヤジ…。|Old man...
+### panel 6
+|JP|EN|
+|---|---|
+|よくやっ…|Yew did good son...
+|パンッ|(sfx:BAM)
+|動くな！|FREEZE!
 
+![015.jpg]
+## 015.jpg
+### panel 1
+|JP|EN|
+|---|---|
+|ザッ|(sfx: thud)
+|警察だ！|We da police!
+|逮捕状|Arrest Warrant
+### panel 2 
+|JP|EN|
+|---|---|
+|銃刀法違反、殺人の容疑で|Under the suspicion of violating weapons control law, and murder,
+|ガチャ|(sfx:kacha)
+|逮捕する！|You're under arrest!
+### panel 3
+|JP|EN|
+|---|---|
+|くわしい話は署できかせてもらう。|You're going to fess up the details at the station.
+### panel 4
+|JP|EN|
+|---|---|
+|オヤジ…！！|Old man...!
+### panel 5
+|JP|EN|
+|---|---|
+|なぁ虎次|Hey, Toraji
+### panel 6
+|JP|EN|
+|---|---|
+|やっぱものづくりは|I know dat ya
+|やめられへんな。|can't stop make'n stuff.
+
+![016.jpg]
+## 016.jpg
+### panel 1
+|JP|EN|
+|---|---|
+|それから、ゲーム制作は急ピッチで進められた。|After that, the game's development advanced at a fevered pace.
+|通常は考えられないスケジュールの厳しさである。|This unusual unthinkable schedule was intense.
+### panel 2 
+|JP|EN|
+|---|---|
+|だが、そこに文句を言うものは一人もいなかった。|But not a single person complained.
+|納期まで　あと　２日|Deadline is in 2 days
+|日野が最期に見せたものづくりへの真摯の姿勢が伝わったのだ。|Hino's final sincere passion for craftsmanship reached into them
+### panel 3
+|JP|EN|
+|---|---|
+|そしてついに、|And then finally,
+|「妖怪ウォッチぷにぷに」はリリースされた。|Yo-kai Watch Punipuni was released.
+### panel 4
+|JP|EN|
+|---|---|
+|一ヶ月後……|One month later...
+|刑務所|Prison
+
+![017.jpg]
+## 017.jpg
+### panel 1
+|JP|EN|
+|---|---|
+|どうや⁈ シャバではみんな遊んどるか⁈|How was it?! Tell me, is everyone playing it?!
+|子供達はぷにぷにしとるんか⁈|Are the kids playing Punipuni now!?
+### panel 2
+|JP|EN|
+|---|---|
+|ええ、楽しそうに。|Yeah, dere all enjoying it.
+### panel 3
+|JP|EN|
+|---|---|
+|ひょほほ！|HA HO HO!
+|キャッキャッ|Tee hee hee hee
+|よかったなぁ！ホンマ良かったなぁ！|Dat's so good! Dat's really really good!
+### panel 4
+|JP|EN|
+|---|---|
+|やっぱものづくりは|I knew that yew couldn't
+|やめられんな。|stop makin' stuff.
+|ボソ…|(sfx:mumble)
+### panel 5
+|JP|EN|
+|---|---|
+|それからまもなくして|And then after that
+|日野組長の死刑が執行された。|Don Hino's death penalty was carried out.
+![018.jpg]
+## 018.jpg
+### panel 1
+|JP|EN|
+|---|---|
+|一品川墓地|Ichishinagawa Cemetery
+### panel 2
+|JP|EN|
+|---|---|
+|高島三郎之墓|Takashima Saburo
+|サブ、終わったぜ…|Sabu, it's over...
+### panel 3
+|JP|EN|
+|---|---|
+|やっぱりものづくりはやめられんな…|I guess I just can't stop makin' things...
+|完|The End
 
 ![title_work.png]
 ## title_work.png
